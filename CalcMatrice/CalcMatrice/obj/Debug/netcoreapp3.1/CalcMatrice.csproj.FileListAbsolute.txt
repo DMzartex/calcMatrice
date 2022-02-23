@@ -1,0 +1,13 @@
+/Users/marielambillotte/Desktop/CalcMatrice/CalcMatrice/bin/Debug/netcoreapp3.1/CalcMatrice.deps.json
+/Users/marielambillotte/Desktop/CalcMatrice/CalcMatrice/bin/Debug/netcoreapp3.1/CalcMatrice.runtimeconfig.json
+/Users/marielambillotte/Desktop/CalcMatrice/CalcMatrice/bin/Debug/netcoreapp3.1/CalcMatrice.runtimeconfig.dev.json
+/Users/marielambillotte/Desktop/CalcMatrice/CalcMatrice/bin/Debug/netcoreapp3.1/CalcMatrice.dll
+/Users/marielambillotte/Desktop/CalcMatrice/CalcMatrice/bin/Debug/netcoreapp3.1/CalcMatrice.pdb
+/Users/marielambillotte/Desktop/CalcMatrice/CalcMatrice/obj/Debug/netcoreapp3.1/CalcMatrice.csproj.AssemblyReference.cache
+/Users/marielambillotte/Desktop/CalcMatrice/CalcMatrice/obj/Debug/netcoreapp3.1/CalcMatrice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marielambillotte/Desktop/CalcMatrice/CalcMatrice/obj/Debug/netcoreapp3.1/CalcMatrice.AssemblyInfoInputs.cache
+/Users/marielambillotte/Desktop/CalcMatrice/CalcMatrice/obj/Debug/netcoreapp3.1/CalcMatrice.AssemblyInfo.cs
+/Users/marielambillotte/Desktop/CalcMatrice/CalcMatrice/obj/Debug/netcoreapp3.1/CalcMatrice.csproj.CoreCompileInputs.cache
+/Users/marielambillotte/Desktop/CalcMatrice/CalcMatrice/obj/Debug/netcoreapp3.1/CalcMatrice.dll
+/Users/marielambillotte/Desktop/CalcMatrice/CalcMatrice/obj/Debug/netcoreapp3.1/CalcMatrice.pdb
+/Users/marielambillotte/Desktop/CalcMatrice/CalcMatrice/obj/Debug/netcoreapp3.1/CalcMatrice.genruntimeconfig.cache
